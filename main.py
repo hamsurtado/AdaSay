@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("COWABUNGA!")
+cowsay.cow("Life is but a dream!") #solipsism cow
